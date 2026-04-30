@@ -1,0 +1,42 @@
+[
+  {
+    "percentile": 10,
+    "source_dataset": "svg-fonts-simple",
+    "original_file": "svg-fonts-simple__059078.svg",
+    "char_length": 433,
+    "svg_file": "example_p10.svg",
+    "png_file": null
+  },
+  {
+    "percentile": 25,
+    "source_dataset": "svg-fonts-simple",
+    "original_file": "svg-fonts-simple__153498.svg",
+    "char_length": 587,
+    "svg_file": "example_p25.svg",
+    "png_file": null
+  },
+  {
+    "percentile": 50,
+    "source_dataset": "svg-fonts-simple",
+    "original_file": "svg-fonts-simple__189454.svg",
+    "char_length": 778,
+    "svg_file": "example_p50.svg",
+    "png_file": null
+  },
+  {
+    "percentile": 75,
+    "source_dataset": "svg-fonts-simple",
+    "original_file": "svg-fonts-simple__292435.svg",
+    "char_length": 1093,
+    "svg_file": "example_p75.svg",
+    "png_file": null
+  },
+  {
+    "percentile": 90,
+    "source_dataset": "svg-icons-simple",
+    "original_file": "svg-icons-simple__064583.svg",
+    "char_length": 1835,
+    "svg_file": "example_p90.svg",
+    "png_file": null
+  }
+]

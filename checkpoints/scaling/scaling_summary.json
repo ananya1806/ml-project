@@ -1,0 +1,58 @@
+{
+  "best_lr": 0.03,
+  "block_size": 1024,
+  "tokens_per_step": 65536,
+  "total_steps": 1652,
+  "models": [
+    {
+      "model_name": "tiny",
+      "n_params": 1180800,
+      "final_val_loss": 1.3416,
+      "best_val_loss": 1.3416,
+      "wall_clock_seconds": 69.2,
+      "peak_gpu_memory_gb": 0.76,
+      "avg_tokens_per_sec": 1564264,
+      "total_tokens_processed": 108265472
+    },
+    {
+      "model_name": "small",
+      "n_params": 3246528,
+      "final_val_loss": 1.3092,
+      "best_val_loss": 1.3092,
+      "wall_clock_seconds": 99.7,
+      "peak_gpu_memory_gb": 1.18,
+      "avg_tokens_per_sec": 1086052,
+      "total_tokens_processed": 108265472
+    },
+    {
+      "model_name": "medium",
+      "n_params": 11801472,
+      "final_val_loss": 3.2161,
+      "best_val_loss": 3.1713,
+      "wall_clock_seconds": 134.9,
+      "peak_gpu_memory_gb": 2.04,
+      "avg_tokens_per_sec": 802292,
+      "total_tokens_processed": 108265472
+    },
+    {
+      "model_name": "large",
+      "n_params": 33040896,
+      "final_val_loss": 3.3118,
+      "best_val_loss": 3.2537,
+      "wall_clock_seconds": 286.4,
+      "peak_gpu_memory_gb": 4.12,
+      "avg_tokens_per_sec": 377989,
+      "total_tokens_processed": 108265472
+    },
+    {
+      "model_name": "xl",
+      "n_params": 87313152,
+      "final_val_loss": 3.3867,
+      "best_val_loss": 3.2377,
+      "wall_clock_seconds": 550.9,
+      "peak_gpu_memory_gb": 7.57,
+      "avg_tokens_per_sec": 196528,
+      "total_tokens_processed": 108265472
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "learning_rates_tested": [
+    3e-05,
+    0.0001,
+    0.0003,
+    0.001,
+    0.003,
+    0.01,
+    0.03
+  ],
+  "results": [
+    {
+      "learning_rate": 3e-05,
+      "final_val_loss": 3.8498,
+      "best_val_loss": 3.8498,
+      "wall_clock_seconds": 71.8
+    },
+    {
+      "learning_rate": 0.0001,
+      "final_val_loss": 2.8296,
+      "best_val_loss": 2.8296,
+      "wall_clock_seconds": 70.6
+    },
+    {
+      "learning_rate": 0.0003,
+      "final_val_loss": 2.278,
+      "best_val_loss": 2.278,
+      "wall_clock_seconds": 70.5
+    },
+    {
+      "learning_rate": 0.001,
+      "final_val_loss": 1.8766,
+      "best_val_loss": 1.8766,
+      "wall_clock_seconds": 70.7
+    },
+    {
+      "learning_rate": 0.003,
+      "final_val_loss": 1.6653,
+      "best_val_loss": 1.6653,
+      "wall_clock_seconds": 72.6
+    },
+    {
+      "learning_rate": 0.01,
+      "final_val_loss": 1.4931,
+      "best_val_loss": 1.4931,
+      "wall_clock_seconds": 71.0
+    },
+    {
+      "learning_rate": 0.03,
+      "final_val_loss": 1.3411,
+      "best_val_loss": 1.3411,
+      "wall_clock_seconds": 71.2
+    }
+  ],
+  "best_lr": 0.03,
+  "best_val_loss": 1.3411,
+  "block_size": 1024,
+  "tokens_per_step": 65536,
+  "total_steps": 1652
+}

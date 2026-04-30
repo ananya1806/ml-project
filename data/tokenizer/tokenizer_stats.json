@@ -1,0 +1,49 @@
+{
+  "vocab_size": 2048,
+  "special_tokens": {
+    "<pad>": 0,
+    "<bos>": 1,
+    "<eos>": 2,
+    "<unk>": 3
+  },
+  "min_frequency": "auto (SentencePiece)",
+  "training_files": 430204,
+  "sample_encoding_stats": [
+    {
+      "file": "svg-emoji-simple__000000.svg",
+      "chars": 2552,
+      "tokens": 626,
+      "chars_per_token": 4.08,
+      "roundtrip_match": true
+    },
+    {
+      "file": "svg-emoji-simple__000001.svg",
+      "chars": 3510,
+      "tokens": 881,
+      "chars_per_token": 3.98,
+      "roundtrip_match": true
+    },
+    {
+      "file": "svg-emoji-simple__000002.svg",
+      "chars": 3607,
+      "tokens": 917,
+      "chars_per_token": 3.93,
+      "roundtrip_match": true
+    },
+    {
+      "file": "svg-emoji-simple__000003.svg",
+      "chars": 2329,
+      "tokens": 611,
+      "chars_per_token": 3.81,
+      "roundtrip_match": true
+    },
+    {
+      "file": "svg-emoji-simple__000004.svg",
+      "chars": 1868,
+      "tokens": 475,
+      "chars_per_token": 3.93,
+      "roundtrip_match": true
+    }
+  ],
+  "avg_chars_per_token": 3.95
+}

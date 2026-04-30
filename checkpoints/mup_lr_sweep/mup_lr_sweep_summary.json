@@ -1,0 +1,61 @@
+{
+  "parameterization": "mup",
+  "learning_rates_tested": [
+    3e-05,
+    0.0001,
+    0.0003,
+    0.001,
+    0.003,
+    0.01,
+    0.03
+  ],
+  "results": [
+    {
+      "learning_rate": 3e-05,
+      "final_val_loss": 3.8127,
+      "best_val_loss": 3.8127,
+      "wall_clock_seconds": 72.5
+    },
+    {
+      "learning_rate": 0.0001,
+      "final_val_loss": 2.7869,
+      "best_val_loss": 2.7869,
+      "wall_clock_seconds": 72.2
+    },
+    {
+      "learning_rate": 0.0003,
+      "final_val_loss": 2.2476,
+      "best_val_loss": 2.2476,
+      "wall_clock_seconds": 72.1
+    },
+    {
+      "learning_rate": 0.001,
+      "final_val_loss": 1.9305,
+      "best_val_loss": 1.9305,
+      "wall_clock_seconds": 72.4
+    },
+    {
+      "learning_rate": 0.003,
+      "final_val_loss": 1.7495,
+      "best_val_loss": 1.7495,
+      "wall_clock_seconds": 72.2
+    },
+    {
+      "learning_rate": 0.01,
+      "final_val_loss": 1.5175,
+      "best_val_loss": 1.5175,
+      "wall_clock_seconds": 71.9
+    },
+    {
+      "learning_rate": 0.03,
+      "final_val_loss": 1.5251,
+      "best_val_loss": 1.5251,
+      "wall_clock_seconds": 72.1
+    }
+  ],
+  "best_lr": 0.01,
+  "best_val_loss": 1.5175,
+  "block_size": 1024,
+  "tokens_per_step": 65536,
+  "total_steps": 1652
+}
