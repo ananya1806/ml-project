@@ -87,4 +87,5 @@ Output checkpoints, plots, rendered samples, and Markdown reports will be genera
 ---
 
 ## Author
-*Ananya Singh*
+Name: *Ananya Singh*
+Net ID: AS21114

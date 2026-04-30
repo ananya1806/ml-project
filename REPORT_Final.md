@@ -1,7 +1,7 @@
 # Transformer Scaling Laws on SVG Data
 ## Final Project Report
 
-**Author:** Ananya Singh 
+**Author:** Ananya Singh (AS21114)
 **Date:** April 30, 2026
 
 ---
